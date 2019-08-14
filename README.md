@@ -1,4 +1,6 @@
 # 最強の INI 書き換えセット
+
+Version 1.0.20190814.00
 (c) 2019 KusaReMKN
 
 This document is encoded in utf-8(LF)
