@@ -5,6 +5,8 @@ Version 1.0.20190814.00
 
 This document is encoded in utf-8(LF)
 
+***このアプリケーションは `TCHAR` 型を利用していますが、実際には `CHAR` 型であることに注意してください！***
+
 ini ファイルは %APPDATA% 直下に発生する。
 ini のファイル名はアプリの名前が利用される。
 
