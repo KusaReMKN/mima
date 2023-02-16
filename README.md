@@ -1,7 +1,7 @@
 # mima
 INI 書き換えツール for mima
 
-Version 1.10. © 2019 KusaReMKN. Available under [MKNPPL](https://mkn.kusaremkn.com/mknppl).
+Version 1.10. © 2019 KusaReMKN. Available under MKNPPL.
 
 ## これはなに
 KusaReMKN による、怠け者のための INI 読み書きツールです。
